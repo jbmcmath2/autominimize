@@ -1,6 +1,6 @@
 # Purpose: Minimize a specified process
 # change the target process variable to the name of the process you are wanting to minimize
-# Using task schduler on windows, you can set up a time delay/trigger event for when this us run
+# Using task schduler on windows, you can set up a time delay/trigger event for when this is run
 # set task's action to open powershell then set the optional attribute to the file path of this script
 
 $TargetProcessName = "chrome" 
